@@ -1,5 +1,5 @@
 {
-  "name": "harrypotter-names",
+  "name": "random-harrypotter-names",
   "version": "1.0.0",
   "description": "Get harry potter character names ",
   "main": "src/index.js",
