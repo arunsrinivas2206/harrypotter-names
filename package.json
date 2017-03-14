@@ -1,0 +1,28 @@
+{
+  "name": "harrypotter-names",
+  "version": "1.0.0",
+  "description": "Get harry potter character names ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunsrinivas2206/harrypotter-names.git"
+  },
+  "keywords": [
+    "harry",
+    "potter",
+    "names",
+    "random"
+  ],
+  "author": "Arun Srinivas <arunsrinivas.venkatesh@yahoo.com> (http://cuckoopost.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arunsrinivas2206/harrypotter-names/issues"
+  },
+  "homepage": "https://github.com/arunsrinivas2206/harrypotter-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
